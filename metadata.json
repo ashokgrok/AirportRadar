@@ -1,0 +1,6 @@
+{
+  "name": "AIONOS Airport KPI Intelligence",
+  "description": "Governed Airport Performance Platform for AIONOS Demo International (ZZA) computing 624 KPIs with in-browser PostgreSQL WASM, 20 dashboards, and RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
